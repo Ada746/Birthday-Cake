@@ -18,3 +18,7 @@ When the page loads, cake layers fall into place, a candle lights up, and a birt
 ## How to Run
 1. Download the project
 2. Open `index.html` in your browser
+
+## Preview
+
+![Project Preview](birthday-cake.gif)
